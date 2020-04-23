@@ -1,5 +1,5 @@
 # Featuretools
-Easy preprocessing and feature engineering using Featuretools and Sklearn-Pandas
+An easy preprocessing and feature engineering tool using Featuretools and Sklearn-Pandas packages
 
 
 The completed code for this tutorial about an auto-feature-engineering: 
